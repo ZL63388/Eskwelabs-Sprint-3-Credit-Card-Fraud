@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This capstone project was created as part of the Eskwelabs Data Science Fellowship Cohort VI.  
+This project was created as part of the Eskwelabs Data Science Fellowship Cohort VI.  
 
 ## Background
 With the on going pandemic and almost everyone making use of online transactions, the credit card fraud has been increasing. This analysis conducted used a simulated or a dummy dataset that contains 25.5M transaction details and 25 variables (ssn, cc_num, first, last, gender, street, city, state, zip, lat, long, city_pop, job, dob, acct_num, trans_num, trans_date, trans_time, unix_time, category, amt, is_fraud, merchant, merch_lat, merch_long). This analysis was handled using Databricks Community Edition due to the size of the dataset.
